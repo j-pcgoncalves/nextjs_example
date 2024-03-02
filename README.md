@@ -1,6 +1,6 @@
 # Next.js Example
 
-This is a simple project built in NextJS. This was built to learn the basics of Next and SSR(Server Side Rendering).
+This is a simple project built in NextJS. This was built to learn the basics of Next and SSR (Server Side Rendering).
 
 ## How to Use
 
